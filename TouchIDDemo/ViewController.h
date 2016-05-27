@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
+- (NSString *)getTestString:(NSString *)normalStr;
 @end
 
